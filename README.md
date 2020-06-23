@@ -1,0 +1,1 @@
+[![Board Status](https://andresandri.visualstudio.com/4f144cf3-c758-43ea-9ee7-0f8ee0ce87be/ff0323ee-3acb-4362-ba93-7aef4ae0589e/_apis/work/boardbadge/5985e180-73c0-4f6d-9f4e-13f777a57576)](https://andresandri.visualstudio.com/4f144cf3-c758-43ea-9ee7-0f8ee0ce87be/_boards/board/t/ff0323ee-3acb-4362-ba93-7aef4ae0589e/Microsoft.RequirementCategory)
